@@ -1,0 +1,22 @@
+public class class_demo extends a1 {
+
+	public static void main(String[] args) {
+		demo1();
+	
+	}
+
+}
+class par1
+{
+	public static void grt3()
+	{
+		System.out.println("GRT of 3 No");
+	}
+}
+class par2 extends par1
+{
+	public static void fac()
+	{
+		System.out.println("Factorial ");
+	}
+}
